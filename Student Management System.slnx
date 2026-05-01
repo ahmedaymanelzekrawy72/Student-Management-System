@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Student Management System/Student Management System.csproj" Id="069dae8f-cc56-4e34-a4d7-0c4f6a4990f4">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
